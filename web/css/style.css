@@ -1,0 +1,14 @@
+.size {
+    height: 100px;
+    width: 100px;
+}
+
+.caption {
+    margin-top: 10px;
+    display: inline-block;
+    margin-bottom: 0;
+}
+
+.bg {
+    background-color: deepskyblue;
+}
